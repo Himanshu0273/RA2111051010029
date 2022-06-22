@@ -2,7 +2,7 @@
 #include <math.h>
 
 /*
-restraurant management system:-
+restaurant bill management system:-
 
 display menu with number
 using item number place order 
